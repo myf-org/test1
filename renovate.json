@@ -3,7 +3,10 @@
   "extends": [
     "config:base"
   ],
+   "packageRules": [ {
     "matchDatasources": ["npm"],
       "registryUrls": ["https://npm.pkg.github.com"]
+   }
      ]
+   
 }
