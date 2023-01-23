@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
 	"lodash": "4.17.4",
-  "test" : "1.0.0",
-  "nizarkala" : "1.0.0"
+  "@nkala1/test" : "1.0.0",
+  "@nkala1/nizarkala" : "1.0.0"
   }
 }
